@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 About PrestaShop
 --------
 
@@ -120,6 +121,9 @@ Thank you for downloading and using the PrestaShop open-source e-commerce soluti
 # minspri
 test
 >>>>>>> 446aa86258ae7a62d8231a1d5857c27cfc2f2460
+=======
+# minspri
+>>>>>>> f86c1877ed876d07ec9f1e3de2b66c7ceff495d7
 =======
 # minspri
 >>>>>>> f86c1877ed876d07ec9f1e3de2b66c7ceff495d7
